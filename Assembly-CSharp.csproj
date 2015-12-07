@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+	<Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+	<ProductVersion>10.0.20506</ProductVersion>
+	<SchemaVersion>2.0</SchemaVersion>
+	<RootNamespace></RootNamespace>
+	<ProjectGuid>{812DDFFC-D0BA-351C-2139-5E49E5356505}</ProjectGuid>
+	<OutputType>Library</OutputType>
+	<AppDesignerFolder>Properties</AppDesignerFolder>
+	<AssemblyName>Assembly-CSharp</AssemblyName>
+	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+	<FileAlignment>512</FileAlignment>
+	<BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+	<DebugSymbols>true</DebugSymbols>
+	<DebugType>full</DebugType>
+	<Optimize>false</Optimize>
+	<OutputPath>Temp\bin\Debug\</OutputPath>
+	<DefineConstants>DEBUG;TRACE;UNITY_5_2_3;UNITY_5_2;UNITY_5;ENABLE_NEW_BUGREPORTER;ENABLE_2D_PHYSICS;ENABLE_4_6_FEATURES;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_DUCK_TYPING;ENABLE_FRAME_DEBUGGER;ENABLE_GENERICS;ENABLE_HOME_SCREEN;ENABLE_IMAGEEFFECTS;ENABLE_LIGHT_PROBES_LEGACY;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_PLUGIN_INSPECTOR;ENABLE_SHADOWS;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_REFLECTION_BUFFERS;INCLUDE_DYNAMIC_GI;INCLUDE_GI;INCLUDE_IL2CPP;INCLUDE_DIRECTX12;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_LOCALIZATION;ENABLE_ANDROID_ATLAS_ETC1_COMPRESSION;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_SUBSTANCE;ENABLE_TEXTUREID_MAP;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_LOG_MIXED_STACKTRACE;ENABLE_UNITYWEBREQUEST;ENABLE_EVENT_QUEUE;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+	<DebugType>pdbonly</DebugType>
+	<Optimize>true</Optimize>
+	<OutputPath>Temp\bin\Release\</OutputPath>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+	<Reference Include="System" />
+    <Reference Include="System.XML" />
+	<Reference Include="System.Core" />
+	<Reference Include="System.Xml.Linq" />
+	<Reference Include="UnityEngine">
+	  <HintPath>D:/Unity523/Editor/Data/Managed/UnityEngine.dll</HintPath>
+	</Reference>
+	<Reference Include="UnityEditor">
+	  <HintPath>D:/Unity523/Editor/Data/Managed/UnityEditor.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\Fantasy-Colorable\SupportingArtefacts\Scripts\ChangeColor.cs" />
+     <Compile Include="Assets\Fantasy-Colorable\SupportingArtefacts\Scripts\ChangeColorButton.cs" />
+     <Compile Include="Assets\Fantasy-Colorable\SupportingArtefacts\Scripts\ColoredGUISkin.cs" />
+     <Compile Include="Assets\Fantasy-Colorable\SupportingArtefacts\Scripts\DemoGuiSkin.cs" />
+     <Compile Include="Assets\Fantasy-Colorable\SupportingArtefacts\Scripts\LoadScene.cs" />
+     <Compile Include="Assets\Fantasy-Colorable\SupportingArtefacts\Scripts\MoveOnPress.cs" />
+     <Compile Include="Assets\Fantasy-Colorable\SupportingArtefacts\Scripts\NonScalingImageButton.cs" />
+     <Compile Include="Assets\Fantasy-Colorable\SupportingArtefacts\Scripts\ScrollBarButton.cs" />
+     <Compile Include="Assets\Fantasy-Colorable\SupportingArtefacts\Scripts\ToggleImage.cs" />
+     <Compile Include="Assets\Fantasy-Colorable\SupportingArtefacts\Scripts\UITab.cs" />
+     <Compile Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Scripts\Interaction\LanguageSelection.cs" />
+     <Compile Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Scripts\Interaction\UIButton.cs" />
+     <Compile Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Scripts\Interaction\UIButtonColor.cs" />
+     <Compile Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Scripts\Interaction\UIButtonKeys.cs" />
+     <Compile Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Scripts\Interaction\UIButtonMessage.cs" />
+     <Compile Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Scripts\Interaction\UIButtonOffset.cs" />
+     <Compile Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Scripts\Interaction\UIButtonPlayAnimation.cs" />
+     <Compile Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Scripts\Interaction\UIButtonRotation.cs" />
+     <Compile Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Scripts\Interaction\UIButtonScale.cs" />
+     <Compile Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Scripts\Interaction\UIButtonSound.cs" />
+     <Compile Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Scripts\Interaction\UIButtonTween.cs" />
+     <Compile Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Scripts\Interaction\UICheckbox.cs" />
+     <Compile Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Scripts\Interaction\UICheckboxControlledComponent.cs" />
+     <Compile Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Scripts\Interaction\UICheckboxControlledObject.cs" />
+     <Compile Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Scripts\Interaction\UIDragCamera.cs" />
+     <Compile Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Scripts\Interaction\UIDragObject.cs" />
+     <Compile Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Scripts\Interaction\UIDragPanelContents.cs" />
+     <Compile Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Scripts\Interaction\UIDraggableCamera.cs" />
+     <Compile Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Scripts\Interaction\UIDraggablePanel.cs" />
+     <Compile Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Scripts\Interaction\UIForwardEvents.cs" />
+     <Compile Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Scripts\Interaction\UIGrid.cs" />
+     <Compile Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Scripts\Interaction\UIImageButton.cs" />
+     <Compile Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Scripts\Interaction\UIInputValidator.cs" />
+     <Compile Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Scripts\Interaction\UIPopupList.cs" />
+     <Compile Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Scripts\Interaction\UISavedOption.cs" />
+     <Compile Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Scripts\Interaction\UIScrollBar.cs" />
+     <Compile Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Scripts\Interaction\UISlider.cs" />
+     <Compile Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Scripts\Interaction\UISliderColors.cs" />
+     <Compile Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Scripts\Interaction\UITable.cs" />
+     <Compile Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Scripts\Internal\Localization.cs" />
+     <Compile Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Scripts\Internal\SpringPanel.cs" />
+     <Compile Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Scripts\Tweening\TweenColor.cs" />
+     <Compile Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Scripts\Tweening\TweenPosition.cs" />
+     <Compile Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Scripts\Tweening\TweenRotation.cs" />
+     <Compile Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Scripts\Tweening\TweenScale.cs" />
+     <Compile Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Scripts\Tweening\TweenTransform.cs" />
+     <Compile Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Scripts\Tweening\TweenVolume.cs" />
+     <Compile Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Scripts\Tweening\UITweener.cs" />
+     <Compile Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Scripts\UI\UIAnchor.cs" />
+     <Compile Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Scripts\UI\UIAtlas.cs" />
+     <Compile Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Scripts\UI\UICamera.cs" />
+     <Compile Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Scripts\UI\UIFilledSprite.cs" />
+     <Compile Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Scripts\UI\UIFont.cs" />
+     <Compile Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Scripts\UI\UIInput.cs" />
+     <Compile Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Scripts\UI\UIInputSaved.cs" />
+     <Compile Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Scripts\UI\UILabel.cs" />
+     <Compile Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Scripts\UI\UILocalize.cs" />
+     <Compile Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Scripts\UI\UIOrthoCamera.cs" />
+     <Compile Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Scripts\UI\UIPanel.cs" />
+     <Compile Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Scripts\UI\UIRoot.cs" />
+     <Compile Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Scripts\UI\UISlicedSprite.cs" />
+     <Compile Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Scripts\UI\UISprite.cs" />
+     <Compile Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Scripts\UI\UISpriteAnimation.cs" />
+     <Compile Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Scripts\UI\UIStretch.cs" />
+     <Compile Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Scripts\UI\UITextList.cs" />
+     <Compile Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Scripts\UI\UITexture.cs" />
+     <Compile Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Scripts\UI\UITiledSprite.cs" />
+     <Compile Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Scripts\UI\UITooltip.cs" />
+     <Compile Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Scripts\UI\UIViewport.cs" />
+     <Compile Include="Assets\Scripts\PlayerController.cs" />
+     <None Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Resources\Shaders\Depth.shader" />
+     <None Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Resources\Shaders\Unlit - Masked Colored.shader" />
+     <None Include="Assets\Fantasy Environment and Animated Characters (Pixel Art) [free add-on]\Graphical\Characters\Characters Sizes to Slice.txt" />
+     <None Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Resources\Shaders\Unlit - Transparent Colored (AlphaClip).shader" />
+     <None Include="Assets\Fantasy-Colorable\ReadMe.txt" />
+     <None Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\ReadMe.txt" />
+     <None Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Resources\Shaders\Unlit - Transparent Colored.shader" />
+     <None Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Resources\Shaders\Unlit - Transparent Colored (HardClip).shader" />
+     <None Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Resources\Shaders\Unlit - Transparent Colored Overlay.shader" />
+     <None Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Resources\Shaders\Unlit - Transparent Colored (Packed).shader" />
+     <None Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Resources\Shaders\Unlit - Additive Colored.shader" />
+     <None Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Resources\Shaders\Unlit - Transparent Colored (SoftClip).shader" />
+     <None Include="Assets\Fantasy Environment and Animated Characters (Pixel Art) [free add-on]\Readme.txt" />
+ <Reference Include="UnityEngine.UI">
+ <HintPath>D:/Unity523/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Networking">
+ <HintPath>D:/Unity523/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+ </Reference>
+ <Reference Include="NGUI">
+ <HintPath>D:/Projects/2D/Project S/Assets/Fantasy-Colorable/ThirdParty/NGUI/DLLs/NGUI.dll</HintPath>
+ </Reference>
+ <Reference Include="Mono.Cecil">
+ <HintPath>D:/Unity523/Editor/Data/Managed/Mono.Cecil.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.iOS.Extensions.Xcode">
+ <HintPath>D:/Unity523/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	   Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>
