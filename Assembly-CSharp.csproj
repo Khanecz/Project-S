@@ -131,11 +131,17 @@
      <None Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Resources\Shaders\Unlit - Additive Colored.shader" />
      <None Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Resources\Shaders\Unlit - Transparent Colored (SoftClip).shader" />
      <None Include="Assets\Fantasy Environment and Animated Characters (Pixel Art) [free add-on]\Readme.txt" />
+ <Reference Include="UnityEngine.Advertisements">
+ <HintPath>D:/Unity523/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll</HintPath>
+ </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>D:/Unity523/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Networking">
  <HintPath>D:/Unity523/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Analytics">
+ <HintPath>D:/Unity523/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
  </Reference>
  <Reference Include="NGUI">
  <HintPath>D:/Projects/2D/Project S/Assets/Fantasy-Colorable/ThirdParty/NGUI/DLLs/NGUI.dll</HintPath>
