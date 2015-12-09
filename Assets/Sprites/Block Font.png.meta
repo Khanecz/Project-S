@@ -1,0 +1,1112 @@
+fileFormatVersion: 2
+guid: 283daec34ec67984e9373c8ff2ac4d80
+timeCreated: 1449700799
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Block Font_0
+    21300002: Block Font_1
+    21300004: Block Font_2
+    21300006: Block Font_3
+    21300008: Block Font_4
+    21300010: Block Font_5
+    21300012: Block Font_6
+    21300014: Block Font_7
+    21300016: Block Font_8
+    21300018: Block Font_9
+    21300020: Block Font_10
+    21300022: Block Font_11
+    21300024: Block Font_12
+    21300026: Block Font_13
+    21300028: Block Font_14
+    21300030: Block Font_15
+    21300032: Block Font_16
+    21300034: Block Font_17
+    21300036: Block Font_18
+    21300038: Block Font_19
+    21300040: Block Font_20
+    21300042: Block Font_21
+    21300044: Block Font_22
+    21300046: Block Font_23
+    21300048: Block Font_24
+    21300050: Block Font_25
+    21300052: Block Font_26
+    21300054: Block Font_27
+    21300056: Block Font_28
+    21300058: Block Font_29
+    21300060: Block Font_30
+    21300062: Block Font_31
+    21300064: Block Font_32
+    21300066: Block Font_33
+    21300068: Block Font_34
+    21300070: Block Font_35
+    21300072: Block Font_36
+    21300074: Block Font_37
+    21300076: Block Font_38
+    21300078: Block Font_39
+    21300080: Block Font_40
+    21300082: Block Font_41
+    21300084: Block Font_42
+    21300086: Block Font_43
+    21300088: Block Font_44
+    21300090: Block Font_45
+    21300092: Block Font_46
+    21300094: Block Font_47
+    21300096: Block Font_48
+    21300098: Block Font_49
+    21300100: Block Font_50
+    21300102: Block Font_51
+    21300104: Block Font_52
+    21300106: Block Font_53
+    21300108: Block Font_54
+    21300110: Block Font_55
+    21300112: Block Font_56
+    21300114: Block Font_57
+    21300116: Block Font_58
+    21300118: Block Font_59
+    21300120: Block Font_60
+    21300122: Block Font_61
+    21300124: Block Font_62
+    21300126: Block Font_63
+    21300128: Block Font_64
+    21300130: Block Font_65
+    21300132: Block Font_66
+    21300134: Block Font_67
+    21300136: Block Font_68
+    21300138: Block Font_69
+    21300140: Block Font_70
+    21300142: Block Font_71
+    21300144: Block Font_72
+    21300146: Block Font_73
+    21300148: Block Font_74
+    21300150: Block Font_75
+    21300152: Block Font_76
+    21300154: Block Font_77
+    21300156: Block Font_78
+    21300158: Block Font_79
+    21300160: Block Font_80
+    21300162: Block Font_81
+    21300164: Block Font_82
+    21300166: Block Font_83
+    21300168: Block Font_84
+    21300170: Block Font_85
+    21300172: Block Font_86
+    21300174: Block Font_87
+    21300176: Block Font_88
+    21300178: Block Font_89
+    21300180: Block Font_90
+    21300182: Block Font_91
+    21300184: Block Font_92
+    21300186: Block Font_93
+    21300188: Block Font_94
+    21300190: Block Font_95
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Block Font_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 66
+        width: 10
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 82
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_2
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 70
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_3
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 66
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_4
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 86
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_5
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 65
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_6
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 66
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_7
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 82
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_8
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 66
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_9
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 66
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_10
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 78
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_11
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 71
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_12
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 65
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_13
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 66
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_14
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 66
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_15
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 66
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_16
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 66
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_17
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 66
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_18
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 66
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_19
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 66
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_20
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 66
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_21
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 66
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_22
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 66
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_23
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 66
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_24
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 66
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_25
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 70
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_26
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_27
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 70
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_28
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 66
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_29
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 65
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_30
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 75
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_31
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 66
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_32
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 66
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_33
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 39
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_34
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 34
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_35
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 34
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_36
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 34
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_37
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 34
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_38
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 34
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_39
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 34
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_40
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 34
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_41
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 34
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_42
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 34
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_43
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 34
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_44
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 34
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_45
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 34
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_46
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 34
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_47
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 34
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_48
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 34
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_49
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 34
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_50
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 34
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_51
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 34
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_52
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 34
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_53
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 34
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_54
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 34
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_55
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 34
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_56
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 34
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_57
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 34
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_58
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 34
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_59
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 34
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_60
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 34
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_61
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 33
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_62
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 34
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_63
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 49
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_64
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 34
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_65
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 21
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_66
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_67
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 2
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_68
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 2
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_69
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 2
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_70
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 2
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_71
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 2
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_72
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_73
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_74
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 2
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_75
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 2
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_76
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 2
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_77
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 2
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_78
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 2
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_79
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 2
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_80
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 2
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_81
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 2
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_82
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 2
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_83
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 2
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_84
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 2
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_85
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 2
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_86
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 2
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_87
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 2
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_88
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 2
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_89
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 2
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_90
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 2
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_91
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 2
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_92
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 2
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_93
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 2
+        width: 10
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_94
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 2
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block Font_95
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 11
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
