@@ -115,6 +115,7 @@
      <Compile Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Scripts\UI\UITooltip.cs" />
      <Compile Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Scripts\UI\UIViewport.cs" />
      <Compile Include="Assets\Scripts\CameraFollow.cs" />
+     <Compile Include="Assets\Scripts\GameController.cs" />
      <Compile Include="Assets\Scripts\GirlLogic.cs" />
      <Compile Include="Assets\Scripts\PlayerController.cs" />
      <None Include="Assets\Fantasy-Colorable\ThirdParty\NGUI\Resources\Shaders\Depth.shader" />

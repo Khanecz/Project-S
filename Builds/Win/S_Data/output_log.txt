@@ -1,0 +1,27 @@
+Initialize engine version: 5.2.3f1 (f3d16a1fa2dd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 770 (ID=0x1184)
+    Vendor:   NVIDIA
+    VRAM:     1989 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Projects\2D\Project S\Builds\Win\S_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Projects\2D\Project S\Builds\Win\S_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Projects\2D\Project S\Builds\Win\S_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Projects\2D\Project S\Builds\Win\S_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Projects\2D\Project S\Builds\Win\S_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Projects\2D\Project S\Builds\Win\S_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Projects\2D\Project S\Builds\Win\S_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Projects\2D\Project S\Builds\Win\S_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Projects\2D\Project S\Builds\Win\S_Data\Managed\NGUI.dll (this message is harmless)
+Loading D:\Projects\2D\Project S\Builds\Win\S_Data\Managed\NGUI.dll into Unity Child Domain
+Platform assembly: D:\Projects\2D\Project S\Builds\Win\S_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.045 seconds
+desktop: 1920x1080 144Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: D:\Projects\2D\Project S\Builds\Win\S_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 30a4 -> priority: 1 
